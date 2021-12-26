@@ -1,4 +1,4 @@
-# Test doubles
+# Test Doubles
 
 The folder `timezones` contains a simple project that gets timezone information from the [World Time API](http://worldtimeapi.org/).
 
